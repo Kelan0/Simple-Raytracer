@@ -1,0 +1,14 @@
+﻿  Main.cpp
+src\Main.cpp(233): warning C4018: '<': signed/unsigned mismatch
+src\Main.cpp(235): warning C4018: '<': signed/unsigned mismatch
+src\Main.cpp(245): warning C4018: '<': signed/unsigned mismatch
+src\Main.cpp(247): warning C4018: '<': signed/unsigned mismatch
+src\Main.cpp(390): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+src\Main.cpp(450): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+src\Main.cpp(455): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+src\Main.cpp(625): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating code
+  All 522 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Raytracer.vcxproj -> D:\Code\C++\Raytracer\Release\Raytracer.exe
+  Raytracer.vcxproj -> D:\Code\C++\Raytracer\Release\Raytracer.pdb (Full PDB)
